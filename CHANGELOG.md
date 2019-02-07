@@ -1,6 +1,6 @@
-# mongodb CHANGELOG
+# mongo CHANGELOG
 
-This file is used to list changes made in each version of the mongodb cookbook.
+This file is used to list changes made in each version of the mongo cookbook.
 
 # 0.1.0
 
